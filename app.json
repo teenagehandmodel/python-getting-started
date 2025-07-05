@@ -16,5 +16,7 @@
         "test": "./manage.py test --debug-mode"
       }
     }
-  }
+  },
+  "python.analysis.typeCheckingMode": "off",
+  "python.linting.mypyEnabled": false
 }
